@@ -9,5 +9,5 @@ Feel free to copy the files and the codes that are shared in this repository to 
 
 I also have created another model to showcase what the web-app does when you deploy it, due to file size limitations model and the data are small therefore model's timeframe for date prediction is really narrow.
 
-Here is the link where you can try the web-app online: [Flight Price Predictor](https://flightprice-predictor.streamlit.app)
+Here is the link where you can try the web-app online: [Flight Price Predictor](https://flight-price-predict.streamlit.app)
 
